@@ -4,6 +4,30 @@ A curated list of awesome **.NET MAUI** open source samples to show how to creat
 
 Contributions are always welcome!
 
+## [LazyPinger](https://github.com/DZimo/LazyPinger)
+
+A very fast C# pinger with a nice UI
+
+Are you tired of old pingers 😿 that are slow and have a very outdated UI? Then this is your new pinger tool 🤖!
+
+## Images Preview
+![LazyPinger Main](/images/LazyPingerMain.png)
+
+## Platforms
+Windows, Android, iOS
+
+## Features
+- .NET 10
+- Cross Platform
+- Unit Tests
+- SQLite
+- NET MAUI Community Toolkit
+- Community Toolkit
+
+## More Information
+- Author: [DZimo](https://github.com/DZimo), [Mayouf](https://github.com/MayoufIsmail), [Mounder](https://github.com/moundergoumeidane),
+- Source Code: https://github.com/DZimo/LazyPinger
+
 ## [MyFinance](https://github.com/gonultasmf/MyFinance)
 
 It is a beautifully designed Finance application for .NET MAUI Markup(No XAML) enthusiasts. Made with [FmgLib.MauiMarkup](https://github.com/FmgLib/FmgLib.MauiMarkup).
